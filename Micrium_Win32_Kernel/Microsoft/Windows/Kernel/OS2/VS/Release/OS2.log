@@ -1,0 +1,43 @@
+﻿  cpu_core.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\uc-cpu\cpu_core.h(105): fatal error C1083: 无法打开包括文件: “cpu.h”: No such file or directory
+  cpu_c.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\uc-cpu\win32\visual_studio\cpu_c.c(45): fatal error C1083: 无法打开包括文件: “cpu.h”: No such file or directory
+  lib_ascii.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\uc-lib\lib_ascii.c(85): fatal error C1083: 无法打开包括文件: “lib_ascii.h”: No such file or directory
+  lib_math.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\uc-lib\lib_math.c(72): fatal error C1083: 无法打开包括文件: “lib_math.h”: No such file or directory
+  lib_mem.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\uc-lib\lib_mem.h(110): fatal error C1083: 无法打开包括文件: “cpu.h”: No such file or directory
+  lib_str.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\uc-lib\lib_str.c(73): fatal error C1083: 无法打开包括文件: “lib_str.h”: No such file or directory
+  os_cpu_c.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\ports\win32\visual studio\os_cpu_c.c(46): fatal error C1083: 无法打开包括文件: “lib_def.h”: No such file or directory
+  os_core.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_core.c(37): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_dbg_r.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_dbg_r.c(26): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_flag.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_flag.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_mbox.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_mbox.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_mem.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_mem.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_mutex.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_mutex.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_q.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_q.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_sem.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_sem.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_task.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_task.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_time.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_time.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  os_tmr.c
+d:\work_space\ucos\micrium_win32_kernel\micrium\software\ucos-ii\source\os_tmr.c(36): fatal error C1083: 无法打开包括文件: “ucos_ii.h”: No such file or directory
+  bsp_cpu.c
+d:\work_space\ucos\micrium_win32_kernel\microsoft\bsp\windows\bsp_cpu.c(37): fatal error C1083: 无法打开包括文件: “cpu_core.h”: No such file or directory
+  app_hooks.c
+d:\work_space\ucos\micrium_win32_kernel\microsoft\windows\kernel\os2\app_hooks.c(38): fatal error C1083: 无法打开包括文件: “os.h”: No such file or directory
+  正在编译...
+  main.c
+d:\work_space\ucos\micrium_win32_kernel\microsoft\windows\kernel\os2\main.c(37): fatal error C1083: 无法打开包括文件: “cpu.h”: No such file or directory
